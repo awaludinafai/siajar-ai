@@ -1,0 +1,6 @@
+{
+  "name": "SiAjar AI",
+  "description": "Generator Perangkat Ajar & Bahan Pembelajaran Kurikulum Nasional sesuai Permendikdasmen No. 13 Tahun 2025 dengan Pendekatan Pembelajaran Mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
